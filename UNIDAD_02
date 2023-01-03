@@ -1,0 +1,20 @@
+*************************************************************************
+**********                    UNIDAD II                     *************
+************************************************************************* 
+
+Repository = DAO
+
+ORM				=Mapeo Objeto-Relacional (object relational mapping)
+				vincular objetos con bases de datos
+				
+*************************************************************************
+**********   nota : conjunto de reglas / especificaciones   *************
+************************************************************************* 
+				
+JPA/			Java Persistem Api
+				Jakarta Persistem Api
+				- especifiacaion de java que permite realizar ORM
+				
+Existe un conjunto de frameworks que permiten implementar JPA (EclipseLink/ Hibernate)
+
+
